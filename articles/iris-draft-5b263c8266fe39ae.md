@@ -6,8 +6,6 @@ topics: ["ai", "個人開発", "iris", "スマートホーム"]
 published: false
 ---
 
-![Iris](https://raw.githubusercontent.com/rabbitfoot357/zenn-content/main/images/iris-f1ff0b9d2a12f222.png)
-
 家電の説明書というのは、なぜかいつも必要なときに見当たらない。
 
 「食洗機のお手入れ方法」を調べたいだけなのに、説明書の束をひっくり返し、見つかったと思ったら別の機種のもので、結局メーカーのサイトで検索し直す。うちではそんなことが何度もあった。
